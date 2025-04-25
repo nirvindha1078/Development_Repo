@@ -1,0 +1,14 @@
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\bin\Debug\net9.0\Ecommerce-task.exe
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\bin\Debug\net9.0\Ecommerce-task.deps.json
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\bin\Debug\net9.0\Ecommerce-task.runtimeconfig.json
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\bin\Debug\net9.0\Ecommerce-task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\bin\Debug\net9.0\Ecommerce-task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.AssemblyInfoInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.AssemblyInfo.cs
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.csproj.CoreCompileInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\refint\Ecommerce-task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\Ecommerce-task.genruntimeconfig.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Ecommerce-task\Ecommerce-task\obj\Debug\net9.0\ref\Ecommerce-task.dll

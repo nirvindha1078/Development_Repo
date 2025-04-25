@@ -1,0 +1,14 @@
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\bin\Debug\net9.0\Employee_Management_task.exe
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\bin\Debug\net9.0\Employee_Management_task.deps.json
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\bin\Debug\net9.0\Employee_Management_task.runtimeconfig.json
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\bin\Debug\net9.0\Employee_Management_task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\bin\Debug\net9.0\Employee_Management_task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.AssemblyInfoInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.AssemblyInfo.cs
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.csproj.CoreCompileInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\refint\Employee_Management_task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\Employee_Management_task.genruntimeconfig.cache
+C:\Users\NirvindhaBalasubrama\source\repos\Employee_Management_task\Employee_Management_task\obj\Debug\net9.0\ref\Employee_Management_task.dll
