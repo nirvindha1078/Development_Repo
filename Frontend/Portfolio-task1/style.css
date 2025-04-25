@@ -1,0 +1,103 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 200px 0 200px;
+    padding-top: 20px;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px 0 0 30px;
+    max-width: 1500px;
+    background-color: brown;
+}
+.header-style img{
+    height: 150px;
+    border-radius: 75%;
+    width: 125px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.name-style #name{
+    font-size: 2.5rem;
+    padding-left: 70px;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.name-style #detail{
+    font-size: 1.5rem;
+    padding: 0 0 0 70px;
+    color: white;
+}
+.my-contacts a{
+    color: black;
+}
+.my-contacts ul li{
+    list-style-type: none;
+}
+.head{
+    color: brown;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.content{
+    display: flex;
+    margin-top: 20px;
+}
+.left-col{
+    width: 40%;
+    padding-right: 10px;
+    border-right: 1px solid brown;
+}
+.right-col{
+    width: 60%;
+    padding-left: 20px;
+}
+span{
+    font-weight: bold;
+}
+h4{
+    margin-bottom: 10px;
+}
+ul{
+    padding-left: 15px;
+}
+nav{
+    width: 200px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+nav .column{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 5px;
+}
+nav a:hover{
+    background-color: rgb(232, 79, 79);
+    border-bottom: 2px solid rgb(232, 79, 79);
+}
+hr{
+    width: 50%;
+    height: 2px;
+    margin: 10px 0;
+    text-align: left;
+    background-color: brown;
+}
+footer{
+    text-align: center;
+    font-size: large;
+}
