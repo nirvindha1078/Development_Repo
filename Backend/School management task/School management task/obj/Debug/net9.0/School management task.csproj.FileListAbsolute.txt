@@ -1,0 +1,14 @@
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\bin\Debug\net9.0\School management task.exe
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\bin\Debug\net9.0\School management task.deps.json
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\bin\Debug\net9.0\School management task.runtimeconfig.json
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\bin\Debug\net9.0\School management task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\bin\Debug\net9.0\School management task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.AssemblyInfoInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.AssemblyInfo.cs
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.csproj.CoreCompileInputs.cache
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\refint\School management task.dll
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.pdb
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\School management task.genruntimeconfig.cache
+C:\Users\NirvindhaBalasubrama\source\repos\School management task\School management task\obj\Debug\net9.0\ref\School management task.dll
